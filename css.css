@@ -39,7 +39,9 @@ body {
 }
 main header{
     font-size:30px;
-    text-decoration: underline 1px black;
+    border-style: none solid solid none;
+    display: inline-block;
+    padding-right: 5px;
 }
 
 /* Media query para pantallas más pequeñas */
