@@ -27,6 +27,7 @@ body {
 }
 .nav-link:hover{
     color:grey;
+    text-decoration: underline;
 }
 
 /* Estilos para las secciones principales */
