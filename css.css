@@ -25,6 +25,9 @@ body {
     color: #fff;
     text-decoration: none;
 }
+.nav-link:hover{
+    color:grey;
+}
 
 /* Estilos para las secciones principales */
 .main-section {
@@ -32,6 +35,10 @@ body {
     padding: 20px;
     border: 1px solid #ccc;
     background-color: #f9f9f9;
+}
+main header{
+    font-size:30px;
+    text-decoration: underline 1px black;
 }
 
 /* Media query para pantallas más pequeñas */
